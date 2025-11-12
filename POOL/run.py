@@ -1,6 +1,11 @@
 import operating
 import java
 
+
 def do():
-    operating.RunWhenSet()
+
     java.window.open()
+    java.alert("Hello World")
+
+    
+
